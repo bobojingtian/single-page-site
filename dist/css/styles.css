@@ -48,6 +48,13 @@
   box-sizing: border-box;
 }
 
+.tab { text-indent: 30px; }
+
+ul {
+  list-style: none; /* Remove default bullets */
+}
+
+
 html {
   font-family: sans-serif;
   line-height: 1.15;
